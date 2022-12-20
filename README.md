@@ -1,2 +1,2 @@
-# Masterschool-Deforestation-Project
+# Masterschool-Forestation-Project
 Insights into Global Forestation
